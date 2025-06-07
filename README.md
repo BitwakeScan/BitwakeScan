@@ -168,7 +168,7 @@ function defiShield(defiData) {
 Evaluates tokens deployed across multiple networks for synchronized exploits, flashloan setups, or coordinated rug events.
 ---
 
-## 🌊 Stay Ahead of the Swell
+## 🌊 Stay Ahead of the Swell ##
 
 BitwakeScan is your early radar in the volatile sea of DeFi.  
 Built for precision, powered by AI, and tuned for real-time defense — it helps you scan smarter, act faster, and avoid hidden risks before they crash.  
