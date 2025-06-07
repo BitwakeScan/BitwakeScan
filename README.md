@@ -164,8 +164,7 @@ function defiShield(defiData) {
   }
 }
 ```
-#### Description: Designed for cross-chain analysis.
-Evaluates tokens deployed across multiple networks for synchronized exploits, flashloan setups, or coordinated rug events.
+#### Description: Designed for cross-chain analysis. Evaluates tokens deployed across multiple networks for synchronized exploits, flashloan setups, or coordinated rug events.
 ---
 
 ## 🌊 Stay Ahead of the Swell  
