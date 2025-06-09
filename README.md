@@ -1,175 +1,150 @@
-# 🛠️ BitwakeScan: Real-Time DeFi Threat Detection
+# 🌌 AuroraTrace: Illuminate Blockchain Risks with AI
 
-## 🌐 Overview
+## 🔍 Introduction
 
-**BitwakeScan** is a live monitoring tool for DeFi ecosystems.  
-It detects unusual activity across tokens, wallets, and chains — alerting you to threats before they spread.  
-With AI-driven precision, Bitwake follows the ripple effects of manipulation, letting you move fast and stay safe.
+**AuroraTrace** is an AI-powered blockchain analyzer designed to detect scams, contract vulnerabilities, and market risks in real time.  
+Built for traders, analysts, and security explorers — it brings precision scanning, intelligent alerts, and data-driven protection to your crypto journey.
 
-## 🔑 Key Features
+Navigate safely. Illuminate the unknown.
 
-🛡️ **DeFiWatch**  
-Scans tokens for real-time threats using live price volatility, volume changes, and liquidity shifts.
+## 🌠 Key Features
 
-⚠️ **WakeAlert**  
-Flags abnormal token behavior linked to sudden price spikes, low liquidity traps, or stealth minting.
+🕳️ **DarkTrack**  
+Scans for fragmented or obfuscated transactions that may signal laundering, proxy routing, or hidden flows across wallets.
 
-🧠 **TokenSense**  
-Analyzes transactional balance — detects suspicious patterns like wash trading or inorganic volume growth.
+📡 **SignalLight**  
+Monitors token activity to detect:
+- Sudden volume bursts  
+- Liquidity reallocation  
+- Coordinated manipulation patterns
 
-🔍 **WalletGuard**  
-Tracks wallet behaviors across tokens to highlight actors involved in exploits, farming schemes, or coordinated drains.
+⚠️ **RiskAlert**  
+Delivers real-time warnings when smart contracts exhibit suspicious behaviors — from stealth mints to LP unlocks and dev withdrawals.
 
-🌐 **DeFiShield**  
-Monitors cross-chain ecosystems and identifies synchronized attack patterns before they unfold.
-
----
-
-## 💡 Why BitwakeScan?
-
-- **Real-Time Signals**: Never trade blind — get instant insight into DeFi activity as it happens.
-- **Multi-Layered Analysis**: Price, volume, wallets, and chain signals — all in sync.
-- **Cross-Chain Ready**: Scan risk not just within tokens, but across entire ecosystems.
+📊 **DataPulse**  
+Analyzes live market flow and sentiment overlays to highlight:
+- Trend spikes  
+- Coordinated sell-offs  
+- High-risk formation zones
 
 ---
-## 🗺️ BitwakeScan Roadmap
+## 🗺️ AuroraTrace — Signal Roadmap
 
-Bitwake evolves in waves — from foundational monitoring to predictive security.  
-Each phase expands its ability to detect, track, and forecast DeFi threats in real time.
+AuroraTrace evolves across phases — from detection to foresight.  
+Each stage expands the system’s reach, clarity, and intelligence.
 
-### ✅ Phase 1: Core Intelligence *(MVP — Complete)*
+### ✅ Phase 1: MVP (Live)
 
-Foundational modules are active. BitwakeScan is already helping users monitor DeFi ecosystems and spot early threats.
+The core tracing engine has been activated — **Aurora’s light pierces the veil**.
 
-- 🔎 **DeFiWatch** — Real-time threat detection across DeFi tokens  
-- ⚠️ **WakeAlert** — Detects sudden token anomalies and liquidity events  
-- 🕵️ **TokenSense** — Flags suspicious transactions and launch behavior  
-- 🧠 **WalletGuard** — Alerts tied to risky or exploit-prone wallet activity  
-- 🔗 **Access System** — Discord-based role entry + $BWAKE token verification  
-- 🧩 **Lab Access Keys** — Role-based unlocking of deeper scan features  
-- 🖥️ **Chrome Extension UI** — Streamlined interface for alerts and token scans  
-📅 *Released: Q3 2025*
+- 🌌 **DarkTrack** — Covert transaction surveillance
+- 📡 **SignalLight** — Real-time anomaly detection
+- 🛡 **RiskAlert** — Instant flags for suspicious behavior
+- 🔦 **DataPulse** — Continuous monitoring of market flow
+- 🔗 **Discord-Synced Access Key** — Role-based feature unlocks via $AURA holdings
+- 💠 **$AURA Token Integration** — Powering layered access and advanced tools  
+📅 *Deployed: Q3 2025*
 
-### 🟣 Phase 2: Expanded Detection Layer *(In Progress)*
+### 🟣 Phase 2: Pulse Expansion (Active)
 
-BitwakeScan expands its awareness — improving accuracy and chain-wide threat coverage.
+The system evolves — deeper insights, broader tracking, and more intuitive signals.
 
-- 🛡️ **DeFiShield** — Reinforced protection layer for anomaly revalidation  
-- 📡 **AlertSync** — Real-time alert system across multiple chains  
-- 🧬 **TokenTrack** — Behavioral pattern scanning and timeline correlation  
-- 💧 **FlowGuard** — Monitors liquidity drops and high-risk movement  
-- 📲 **Tiered Roles** — Unlockable features via modular Discord access  
-📅 *Expected: Q4 2025*
+- 🌐 **GuardLayer** — Multi-chain expansion across Solana, Base, Arbitrum
+- 🔍 **PatternTrace** — Advanced detection of recurring anomaly patterns
+- 🧭 **AlertFlow** — Cross-token syncing for smarter alert correlation
+- 🧬 **Behavior Matrix** — Identification of subtle transaction intent signals
+- 📊 **Role-Synced Dashboards** — UI elements adapt based on your access level  
+📅 *In Progress: Q4 2025*
 
-### 🔴 Phase 3: Predictive Intelligence *(Planned)*
+### 🔴 Phase 3: Cognitive Forecasting (Planned)
 
-The next evolution: Bitwake moves from reaction to preemptive threat anticipation.
+Aurora becomes predictive — no longer just detecting, but *foretelling*.
 
-- 🧠 **AI Pattern Forecasting** — Trained models to detect early threat emergence  
-- 🛰️ **Preemptive Threat Recognition** — Flagging risks before they manifest  
-- 🔁 **Adaptive Filtering Layers** — Dynamic responses to behavior shifts  
-- 🌉 **Cross-Chain Risk Syncing** — Unified threat awareness across ecosystems  
-📅 *Target: Q1 2026*
+- 🛰️ **EchoMap** — Visual mapping of wallet migrations and shadow flows
+- ⚠️ **Disruption Predictor** — Predictive risk scoring before anomalies emerge
+- 🧠 **Neural Trace Engine** — Foresight powered by deep learning and memory layers
+- 💬 **Signal Sentiment Feed** — Fusion of on-chain behavior and social sentiment
+- 🌉 **ChainBridge Scanner** — Cross-chain syncing of risk patterns  
+📅 *Scheduled: Q1 2026*
+
+**AuroraTrace** is not static — it's a growing, learning sentinel.  
+As threats evolve, so does the signal.
+
 ---
-## 🧩 Feature Mechanics & AI Formulas
+## 📂GitHub Access
 
-BitwakeScan is powered by lightweight, interpretable AI modules — each designed to monitor, detect, and forecast threats across DeFi environments.  
-Below are the core scanning functions driving real-time analysis and alerting.
+Each AuroraTrace module is engineered to scan blockchain behavior in real time — identifying risks, tracing hidden flows, and decoding market patterns before they become threats.
 
-### 1. DeFiWatch — Real-Time DeFi Threat Detection
+### 🕳️ DarkTrack — Hidden Transaction Tracer
+
+**Goal:**  
+Identify transaction paths that are fragmented, obfuscated, or routed through proxy wallets to mask intent.
 
 ```python
-def defi_watch(defi_data):
-    price_change = defi_data["priceChange"]
-    market_liquidity = defi_data["marketLiquidity"]
-    token_volume = defi_data["tokenVolume"]
-
-    risk_factor = (price_change / market_liquidity) * token_volume
-    alert_threshold = 0.5
-
-    if risk_factor > alert_threshold:
-        return "Alert: Potential DeFi Threat Detected"
+def dark_track(tx_path):
+    if len(tx_path) > 5 and tx_path.count('unknown_wallet') >= 2:
+        return "Suspicious Movement Detected"
+    elif len(tx_path) > 3:
+        return "Obscured Transaction Trail"
     else:
-        return "DeFi Market Stable"
+        return "Normal Flow"
 ```
-#### Description: Scans token markets using price change, liquidity, and volume to identify abnormal movements.
-Flags pump-and-dumps, liquidity traps, and sudden sentiment flips in real time.
+#### Interpretation:
+Long and complex chains with unknown wallets may indicate laundering, relays, or stealth routing attempts.
 
-### 2. WakeAlert — Token Behavior Analysis
-
+### 📡 SignalLight — Anomaly Signal Detector
+#### Goal: Detect short-term anomalies such as micro pumps, liquidity distortions, and artificial transaction surges.
 
 ```javascript
-function wakeAlert(tokenData) {
-  const fluctuationRatio = Math.abs(tokenData.currentPrice - tokenData.previousPrice) / tokenData.previousPrice;
-  const volumeImpact = tokenData.transactionVolume / tokenData.marketLiquidity;
-
-  if (fluctuationRatio > 0.1 && volumeImpact > 0.5) {
-    return 'Alert: Token Behavior Out of Normal Range';
+function signalLight(volumeChange, liquidityShift, txSpike) {
+  if (volumeChange > 150 && liquidityShift < 10 && txSpike > 60) {
+    return "High Anomaly Risk";
+  } else if (volumeChange > 80) {
+    return "Moderate Signal Detected";
   } else {
-    return 'Token Behavior Normal';
+    return "Normal Activity";
   }
 }
 ```
-#### Description: Focuses on volatility relative to liquidity.
-Detects unusual token behavior — useful for identifying stealth manipulation before it becomes visible to the wider market.
+####  Interpretation: Sharp volume spikes with low liquidity and high transaction count often suggest botnet activity or pump attempts.
 
-### 3. TokenSense — Suspicious Activity Monitoring
+### ⚠️ RiskAlert — Irregularity Notifier
+#### Goal: Trigger real-time alerts when a token exhibits behavior consistent with high-risk patterns.
 
 ```python
-def token_sense(token_data):
-    price_change = token_data["priceChange"]
-    previous_price = token_data["previousPrice"]
-    token_volume = token_data["tokenVolume"]
-    market_liquidity = token_data["marketLiquidity"]
-
-    price_impact = price_change / previous_price
-    volume_ratio = token_volume / market_liquidity
-
-    if abs(price_impact) > 0.2 and volume_ratio > 1:
-        return "Alert: Suspicious Token Activity Detected"
+def risk_alert(tx_density, token_age_days, recent_alerts):
+    if tx_density > 300 and token_age_days < 5 and recent_alerts >= 2:
+        return "Immediate Risk Alert"
+    elif tx_density > 150:
+        return "Watchlist"
     else:
-        return "Token Activity Normal"
+        return "Stable"
 ```
-#### Description: Evaluates aggressive price shifts against liquidity depth.
-Useful for identifying wash trading, bot behavior, or stealth launches with hidden intent.
+#### Interpretation: Young tokens with intense transaction volume and previous alert history are strong scam/rugpull candidates.
 
-### 4. WalletGuard — Risk Alert System
+### 📊 DataPulse — Market Flow Tracker
+#### Goal: Analyze evolving price and wallet inflow data to highlight sudden shifts in market behavior.
 
 ```javascript
-function walletGuard(walletData) {
-  const walletRiskScore = walletData.totalVolume / walletData.activeTokens;
-  const alertThreshold = 0.75;
-
-  if (walletRiskScore > alertThreshold) {
-    return 'Alert: High-Risk Wallet Detected';
+function dataPulse(priceDelta, walletInflow, timeframeMinutes) {
+  const speed = walletInflow / timeframeMinutes;
+  if (priceDelta > 20 && speed > 5) {
+    return "Trend Spike Detected";
+  } else if (priceDelta < -15) {
+    return "Negative Trend Shift";
   } else {
-    return 'Wallet Activity Normal';
+    return "Steady Market Pulse";
   }
 }
 ```
-#### Description: Detects wallets with exploit-like behavior or abnormal trading patterns.
-Flags sniper contracts, whale rotations, or multi-token attackers by analyzing volume and token spread.
-
-### 5. DeFiShield — Multi-Chain Risk Detection
-
-```javascript
-function defiShield(defiData) {
-  const multiChainRisk = (defiData.priceVolatility * defiData.totalVolume) / defiData.marketLiquidity;
-  const riskThreshold = 1.0;
-
-  if (multiChainRisk > riskThreshold) {
-    return 'Alert: Multi-Chain Risk Detected';
-  } else {
-    return 'DeFi Safe';
-  }
-}
-```
-#### Description: Designed for cross-chain analysis. Evaluates tokens deployed across multiple networks for synchronized exploits, flashloan setups, or coordinated rug events.
+#### Interpretation: Price increases with rapid inflows can mark bullish spikes, while sharp drops despite inflows may signal coordinated exits or traps.
 ---
 
-## 🌊 Stay Ahead of the Swell  
+## 🌠 Final Signal
 
-- BitwakeScan is your early radar in the volatile sea of DeFi.  
-Built for precision, powered by AI, and tuned for real-time defense — it helps you scan smarter, act faster, and avoid hidden risks before they crash.  
-**This is DeFi intelligence, without the noise.**
+AuroraTrace isn’t just a scanner — it’s a lens into the unseen.  
+In the noise of Web3, it listens. In the dark, it draws constellations of insight.
+
+Stay sharp. Stay ahead.  
+Let the signal guide you.
 ---
