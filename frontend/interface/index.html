@@ -1,18 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>BitwakeScan Dashboard</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div id="app">
-    <h1>Welcome to BitwakeScan</h1>
-    <div class="token-card">
-      <p class="token-name">Token: <span id="token-name">Loading...</span></p>
-      <p class="token-risk">Risk: <span id="token-risk">Unknown</span></p>
-    </div>
-  </div>
-  <script src="ely_script_dashboard.js"></script>
+  <main id="app" class="dashboard">
+    <header class="dashboard__header">
+      <h1 class="dashboard__title">BitwakeScan Dashboard</h1>
+    </header>
+
+    <section class="token-card" aria-live="polite">
+      <label for="token-input" class="token-card__label">Token Symbol:</label>
+      <input
+        id="token-input"
+        class="token-card__input"
+        type="text"
+        placeholder="e.g. SOL"
+        aria-required="true"
+      />
+      <button id="scan-button" class="token-card__button">
+        Scan Risk
+      </button>
+
+      <div id="token-info" class="token-card__info" hidden>
+        <p>
+          <strong>Name:</strong>
+          <span id="token-name">—</span>
+        </p>
+        <p>
+          <strong>Risk Level:</strong>
+          <span id="token-risk">—</span>
+        </p>
+        <p>
+          <strong>Last Checked:</strong>
+          <time id="last-checked">—</time>
+        </p>
+      </div>
+
+      <div id="loading-indicator" class="token-card__loading" hidden>
+        Loading…
+      </div>
+
+      <div id="error-message" class="token-card__error" role="alert" hidden>
+        Something went wrong. Please try again.
+      </div>
+    </section>
+  </main>
+
+  <script type="module" src="ely_script_dashboard.js"></script>
 </body>
 </html>
